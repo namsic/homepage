@@ -10,7 +10,7 @@ mod tests {
     }
 
     #[test]
-    fn it__works2() {
+    fn it_works2() {
         assert_eq!(1 + 2, 3);
     }
 }
